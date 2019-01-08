@@ -1,5 +1,6 @@
 # REPEAT-GAME-
-It's my first game in C++
+It's my first game in C++.
+Remember the color sequences. A different color is added in each round. The appearance of the color sequence is set in fast mode.
 
 Screenshots: 
 
